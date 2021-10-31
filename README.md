@@ -1,2 +1,2 @@
-# Programming_C++
+# Programming C++
 This repository is my programming projects with C++ for a course (CSC 211) at URI.
